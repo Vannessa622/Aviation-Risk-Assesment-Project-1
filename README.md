@@ -54,6 +54,8 @@ Total injuries by flight purpose and number of engines.
 
 Dashboard: Built an interactive dashboard in Tableau to allow further exploration of the data and insights.
 
+Here's the link:Here's the link: https://public.tableau.com/app/profile/vannessa.pamela/viz/AviationDataVisualization_17272875805400/AviationDataVisualization
+
 ## Key Insights
 Personal Flight Risks: Personal flights had the highest occurrence of incidents, highlighting the need for further safety measures in this category.
 
